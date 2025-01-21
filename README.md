@@ -1,4 +1,1 @@
 # Bookstore
-# MyBookStore
-# BookStore
-# BookStore
